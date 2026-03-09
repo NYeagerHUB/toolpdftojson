@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Quiz JSON Digitizer",
+  "description": "Convert educational PDF documents into structured JSON format for quiz systems using Google Gemini AI.",
+  "requestFramePermissions": []
+}
