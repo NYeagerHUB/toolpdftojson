@@ -474,7 +474,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="mt-12 text-center text-gray-400 text-sm">
-          <p>© 2024 PDF Digitizer AI. Powered by Google Gemini.</p>
+          <p></p>
         </footer>
       </div>
     </div>
